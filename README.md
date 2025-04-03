@@ -2,9 +2,7 @@
 
 🚀 **DevOps | Cloud Enthusiast**  
 
-🔹 **Building infrastructure on Earth to building infrastructure on Cloud.** 🌍➡️☁️  
-
-I started my journey as a **Building Services Electrical Engineer**, designing infrastructure for physical spaces. Now, I craft **scalable, automated cloud solutions** on **AWS, Kubernetes, and Terraform**, ensuring seamless deployments and optimized workflows.  
+AWS Certified Cloud Practitioner with expertise in AWS, Docker, Kubernetes, and Terraform. Passionate about CI/CD, cloud automation, and DevOps, focused on creating scalable, automated solutions and optimizing workflows.
 
 ## 🔹 What I Do:
 ✅ Automate & optimize infrastructure 🚀  
