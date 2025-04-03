@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nusrat FM</h1>
-<h3 align="center">A passionate AWS Devops Engineer from London,UK</h3>
+# 👋 Hey there! I'm Nusrat
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+🚀 **DevOps | Cloud Enthusiast**  
 
-- 💬 Ask me about **AWS Devops**
+🔹 **Building infrastructure on Earth to building infrastructure on Cloud.** 🌍➡️☁️  
 
-- 📫 How to reach me **fmnusrat@yahoo.com**
+I started my journey as a **Building Services Electrical Engineer**, designing infrastructure for physical spaces. Now, I craft **scalable, automated cloud solutions** on **AWS, Kubernetes, and Terraform**, ensuring seamless deployments and optimized workflows.  
 
-- ⚡ Fun fact **Building infrastructure on Land to Building infrastructure on Cloud,A professional with skill sets :)**
+## 🔹 What I Do:
+✅ Automate & optimize infrastructure 🚀  
+✅ Build and deploy cloud-native applications ☁️  
+✅ Streamline CI/CD workflows with GitHub Actions 🔄  
+✅ Implement **Terraform in GitHub Actions pipelines** for efficient cloud provisioning  
+✅ **Deploy applications on AWS ECS & ECR** using Docker  
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3> fmnusrat@yahoo.com
 <p align="left">
 </p>
 
