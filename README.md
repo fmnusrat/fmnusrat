@@ -9,7 +9,8 @@ AWS Certified Cloud Practitioner with expertise in AWS, Docker, Kubernetes, and 
 ✅ Build and deploy cloud-native applications ☁️  
 ✅ Streamline CI/CD workflows with GitHub Actions 🔄  
 ✅ Implement **Terraform in GitHub Actions pipelines** for efficient cloud provisioning  
-✅ **Deploy applications on AWS ECS & EKS**                                                                                                                                                                          ✅ Push Docker images to AWS ECR for seamless container management
+✅ **Deploy applications on AWS ECS & EKS**  
+✅ Push Docker images to AWS ECR for seamless container management
 
 
 <h3 align="left">Connect with me:</h3> fmnusrat@yahoo.com
