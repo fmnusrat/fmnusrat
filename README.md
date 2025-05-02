@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nusrat
 
-🚀 **DevOps | Cloud Enthusiast**  
+🚀 **DevOps Engineer**  
 
 AWS Certified Cloud Practitioner with expertise in AWS, Docker, Kubernetes, and Terraform. Passionate about CI/CD, cloud automation, and DevOps, focused on creating scalable, automated solutions and optimizing workflows.
 
